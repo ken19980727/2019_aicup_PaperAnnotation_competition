@@ -12,3 +12,6 @@ Provide abstracts of computer science-related papers on arXiv. Participants need
 ## Awards
 ![](https://i.imgur.com/xUuDchv.png)
 > All participating teams have 469
+
+## Evaluation Methods
+![image](https://user-images.githubusercontent.com/43875569/164982753-9e1703e6-f272-40a6-a4bb-7500cce4f97d.png)
